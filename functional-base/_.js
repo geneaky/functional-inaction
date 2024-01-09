@@ -29,4 +29,4 @@ function _curry(fn) {
     }
 }
 
-export {_filter, _map, _curry};
+export {_filter, _map, _curry, _each};
